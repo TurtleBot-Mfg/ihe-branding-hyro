@@ -1,0 +1,14 @@
+Source: ihe-branding
+Section: graphics
+Priority: optional
+Maintainer: I Heart Engineering <code@iheartengineering.com>
+Build-Depends: debhelper (>= 5), cdbs
+Standards-Version: 3.9.3
+
+Package: ihe-branding
+Architecture: any
+Provides: ihe-branding
+Conflicts: 
+Replaces:
+Depends: ${misc:Depends}, ihe-wallpapers
+Description: I Heart Engineering Branding 
