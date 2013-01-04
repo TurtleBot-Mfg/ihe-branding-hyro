@@ -1,5 +1,11 @@
-ihe-branding (0.0.1) UNRELEASED; urgency=low
+ihe-branding (0.0.1ubuntu1) precise; urgency=low
+
+  * 
+
+ -- I Heart Engineering <code@iheartengineering.com>  Thu, 03 Jan 2013 10:19:09 -0500
+
+ihe-branding (0.0.1) precise; urgency=low
 
   * new repo
 
- -- I Heart Engineering <code@iheartengineering.com>  Sat, 21 Jul 2012 01:29:21 -0400
+ -- I Heart Engineering <code@iheartengineering.com>  Thu, 03 Jan 2013 10:06:31 -0500
