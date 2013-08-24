@@ -1,14 +1,14 @@
-Source: ihe-branding
+Source: ihe-branding-hydro
 Section: graphics
 Priority: optional
 Maintainer: I Heart Engineering <code@iheartengineering.com>
 Build-Depends: debhelper (>= 5), cdbs
 Standards-Version: 3.9.3
 
-Package: ihe-branding
-Architecture: any
+Package: ihe-branding-hydro
+Architecture: all
 Provides: ihe-branding
 Conflicts: 
 Replaces:
-Depends: ${misc:Depends}, ihe-wallpapers
+Depends: ${misc:Depends}, ihe-wallpapers-hydro, turtlebot-wallpapers-hydro
 Description: I Heart Engineering Branding 

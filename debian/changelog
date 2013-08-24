@@ -1,10 +1,10 @@
-ihe-branding (0.0.1ubuntu1) precise; urgency=low
+ihe-branding-hydro (0.0.1ubuntu1) precise; urgency=low
 
   * 
 
  -- I Heart Engineering <code@iheartengineering.com>  Thu, 03 Jan 2013 10:19:09 -0500
 
-ihe-branding (0.0.1) precise; urgency=low
+ihe-branding-hydro (0.0.1) precise; urgency=low
 
   * new repo
 
