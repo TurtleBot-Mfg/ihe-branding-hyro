@@ -1,8 +1,13 @@
-ihe-branding-hydro (0.0.1ubuntu1) precise; urgency=low
+ihe-branding-hydro (0.0.2~1.gbp5f2729) UNRELEASED; urgency=low
 
-  * 
+  ** SNAPSHOT build @5f272948e44d358ed2047468b12a39122b264266 **
 
- -- I Heart Engineering <code@iheartengineering.com>  Thu, 03 Jan 2013 10:19:09 -0500
+  [ lucid ]
+  * UNRELEASED
+
+  [ I Heart Engineering ]
+
+ -- I Heart Engineering <code@iheartengineering.com>  Fri, 23 Aug 2013 21:21:54 -0400
 
 ihe-branding-hydro (0.0.1) precise; urgency=low
 
