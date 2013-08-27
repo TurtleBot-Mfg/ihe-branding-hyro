@@ -7,8 +7,8 @@ Standards-Version: 3.9.3
 
 Package: ihe-branding-hydro
 Architecture: all
-Provides: ihe-branding
-Conflicts: 
-Replaces:
+Provides: turtlebot-branding
+Conflicts: turtlebot-branding
+Replaces: turtlebot-branding
 Depends: ${misc:Depends}, ihe-wallpapers-hydro, turtlebot-wallpapers-hydro
 Description: I Heart Engineering Branding 
